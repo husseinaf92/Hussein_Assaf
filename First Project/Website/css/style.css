@@ -1,0 +1,121 @@
+/**
+ * Stylesheet for Logolab
+ */
+
+/* RESET */
+
+* {
+    font-family: "Trebuchet MS", trebuchet, Arial, Verdana, sans-serif;
+    ;
+}
+
+
+/* GENERAL */
+
+#header {
+    background: #BA2F32 !important;
+
+}
+
+#footer {
+    background: #BA2F32 !important;
+
+}
+
+.hero {
+    background: #ECECEC !important;
+
+}
+
+#main {
+    background: #F7F8F9 !important;
+
+}
+
+
+.articles {
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    background: #ECECEC !important;
+    padding: 30px
+        /* double green border  */
+}
+
+.contactform {
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    background: #ececec !important;
+    padding: 30px
+        /*   */
+
+}
+
+.contactscard {
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    background: #ececec !important;
+    padding: 30px
+        /*   */
+
+}
+
+.persona {
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    background: #ececec !important;
+    padding: 30px
+        /*   */
+
+}
+
+.caroselsCards {
+    border: 1px;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    background: #ececec !important;
+    padding: 7px
+}
+
+/*   */
+.videoCardswide {
+    max-width: 100%;
+    background: #ececec;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+
+.videoCardswide iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 4;
+    border: none;
+    display: block;
+}
+
+.videoCardsthin {
+    max-width: 100%;
+    background: #ececec;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #DEDEDE;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+
+.videoCardsthin iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 9 / 16;
+    border: none;
+    display: block;
+}
+
+
+#logo {
+    max-width: 100px;
+    height: 20;
+}
