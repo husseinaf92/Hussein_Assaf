@@ -1,7 +1,5 @@
 # Basic Web Development 2
 
-- Academiejaar: 
-- Opleiding: 
-- Klasgroep: 
-- Naam: 
+- Year: 2026
+- Naam: Hussein Assaf
 
